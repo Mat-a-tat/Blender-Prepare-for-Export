@@ -8,4 +8,5 @@ Full List:
   - Rotation
 - Resets:
   - Origin*
+    - Double check your origin. Wonky, as Blender tends to be.    
   - Normals
